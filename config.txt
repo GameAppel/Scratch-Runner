@@ -1,0 +1,21 @@
+{
+    "window": {
+        "width": 480,
+        "height": 360
+    },
+    "size": {
+        "resizable": True,
+        "fullscreen": False,
+        "min_size": (240, 180)
+    },
+    "frameless": {
+        "easy_drag": True
+    },
+    "state": {
+        "minimized": False,
+        "on_top": True,
+    },
+    "web": {
+        "text_select": False,
+    }
+}
